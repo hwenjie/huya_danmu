@@ -1,0 +1,14 @@
+{
+	"name": "huya_danmu",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "",
+	"dependencies": {
+		"request": "^2.88.2",
+		"ws": "^7.5.1"
+	}
+}
